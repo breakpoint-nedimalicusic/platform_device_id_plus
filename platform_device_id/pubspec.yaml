@@ -4,7 +4,7 @@ version: 1.0.6
 homepage: https://github.com/acmonetwork/platform_device_id_plus
 
 environment:
-  sdk: ">=2.16.1 <3.0.0"
+  sdk: ">=2.16.1 <4.0.0"
   flutter: ">=1.22.0"
 
 dependencies:
